@@ -19,7 +19,7 @@ Clone o projeto para dentro de uma pasta
 Entre no diretorio
 
 ```bash
-  cd a24_forClass
+  cd emp_proj
 ```
 
 Rode os seguintes comandos para instalar as dependencias (com o node já instalado)
