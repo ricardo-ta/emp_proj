@@ -14,8 +14,7 @@ O site é feito com html basico e css, mas os mesmos estão dentro de um ambient
 Clone o projeto para dentro de uma pasta
 
 ```bash
-  git clone https://github.com/LucasAmarilla/a24_forClass.git
-```
+  git clone https://github.com/LucasAmarilla/emp_proj.git
 
 Entre no diretorio
 
