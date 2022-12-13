@@ -1,7 +1,7 @@
 {
   "name": "emp",
   "version": "1.0.0",
-  "description": "",
+  "description": "O site é feito com html basico e css, mas os mesmos estão dentro de um ambiente expressJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasAmarilla/emp_proj.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/LucasAmarilla/emp_proj/issues"
+  },
+  "homepage": "https://github.com/LucasAmarilla/emp_proj#readme"
 }

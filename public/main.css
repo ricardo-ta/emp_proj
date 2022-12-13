@@ -37,7 +37,7 @@
   margin-top: 7em;
 }
 .right {
-  margin-right: 20em;
+  margin-right: 5em;
   padding-left: 15em;
   margin-top: 16em;
 }
@@ -46,7 +46,8 @@
   margin-left: -4em;
   margin-bottom: 0.2em;
 }
-img {
+
+.foda {
   margin-top: 8.5em;
   border-radius: 50%;
   margin-left: 10em;
@@ -121,7 +122,7 @@ section {
 
 p {
   color: var(--secondary-color);
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   justify-content: center;
 }
 
@@ -166,4 +167,65 @@ section:target h1 {
   100% {
     opacity: 1;
   }
+}
+
+.frm_contato { 
+  background: var(--light-color);  
+  font-size:14px; 
+  border:0px solid var(--contrast-color); 
+  width:500px; 
+  padding:10px;
+  margin:0 10px 0 0; 
+  color:var(--primary-color); 
+  border-radius: 10px 0 10px 0; 
+}
+
+.botao_frm { 
+  background:var(--contrast-color); 
+  font-size:14px; 
+  border:none; 
+  width:100px; 
+  padding:4px; 
+  margin:0 10px 0 0; 
+  color:var(--primary-color); 
+}
+
+.frm_txt{ 
+  color:var(--contrast-color); 
+  font-size:15px; 
+  text-align:justify; 
+  line-height:20px; 
+}
+
+.img_curso1 {
+  margin-top: 11.5em;
+  border-radius:30%;
+  margin-left: 7em;
+  margin-right: 2em;
+  border: 3px var(--secondary-color) solid;
+  width: 25%;
+}
+
+.img_curso2 {
+  margin-top: 11.5em;
+  border-radius:30%;
+  margin-left: 2em;
+  margin-right: 2em;
+  border: 3px var(--secondary-color) solid;
+  width: 25%;
+}
+
+.img_curso3 {
+  margin-top: 11.5em;
+  border-radius:30%;
+  margin-left: 2em;
+  margin-right: 2em;
+  border: 3px var(--secondary-color) solid;
+  width: 25%;
+}
+
+.curso_txt{
+  justify-content: center;
+  margin-left: 10em;
+  margin-bottom: 0.2em;
 }
